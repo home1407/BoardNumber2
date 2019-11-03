@@ -1,0 +1,21 @@
+#content {
+    background-color : #f0f0f0;
+  padding : 2rem 1.25rem;	
+}
+
+#divTitle{
+    padding : 2rem 0rem 0rem 0.5rem;
+}
+
+
+#divName p{
+    background-color : #CEE3F6;
+    border-top : 2px solid #160800;
+
+}
+#Center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+    
